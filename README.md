@@ -1,2 +1,1 @@
-# curriculo
-Primeiro Repositório
+# Curriculo Gustavo Pereira Dias
