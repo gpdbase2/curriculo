@@ -34,8 +34,7 @@ Conheço e já trabalhei com várias tecnologias de frontend e backend na área 
 
 ## Formação Acadêmica
 
-![Puc Minas Logo](https://media-exp1.licdn.com/dms/image/C4D0BAQEn1scYwvaKig/company-logo_200_200/0?e=1596067200&v=beta&t=m_76xR6uGsaMtfLD-kmzxc6VJCUVCP6dnhSHgqtXM7g)
-
+![Puc Minas Logo](https://media-exp1.licdn.com/dms/image/C4D0BAQEn1scYwvaKig/company-logo_200_200/0?e=1596067200&v=beta&t=m_76xR6uGsaMtfLD-kmzxc6VJCUVCP6dnhSHgqtXM7g)<br>
 Pontifícia Universidade Católica de Minas Gerais / PUC Minas <br>
 Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da Terra <br>
 2004 a 2012
@@ -47,3 +46,12 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 ## Competências
 
 ## Redes Sociais
+
+- [Linkedin](https://www.linkedin.com/in/gustavo-pereira-dias-a89a631b/)
+- [GitHubPessoal](https://github.com/gpd38)
+- [GitHubEmpresa](https://github.com/gpdbase2)
+- [Medium](#)
+- [Twitter](#)
+- [Facebook](#)
+- [Instagram](#)
+
