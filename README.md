@@ -18,6 +18,20 @@ Conheço e já trabalhei com várias tecnologias de frontend e backend na área 
 
 ## Experiência
 
+- Base2 Tecnologia
+
+- ATS Informática
+
+- GT4W Consultoria em Tecnologia
+
+- Racco Calçados
+
+- CCBH
+
+- IPSEMG
+
+- ANTT
+
 ## Formação Acadêmica
 
 ## Certificados e Cursos
