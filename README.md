@@ -43,6 +43,8 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 
 ## Idiomas
 
+- Inglês
+
 ## Competências
 
 ## Redes Sociais
