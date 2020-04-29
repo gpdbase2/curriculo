@@ -43,6 +43,8 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 
 ## Idiomas
 
+- Inglês
+
 ## Competências
 
 ## Redes Sociais
@@ -50,8 +52,8 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 - [Linkedin](https://www.linkedin.com/in/gustavo-pereira-dias-a89a631b/)
 - [GitHubPessoal](https://github.com/gpd38)
 - [GitHubEmpresa](https://github.com/gpdbase2)
+- [Lattes](http://lattes.cnpq.br/9974420314016273)
 - [Medium](#)
 - [Twitter](#)
 - [Facebook](#)
 - [Instagram](#)
-
