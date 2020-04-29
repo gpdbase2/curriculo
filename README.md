@@ -41,6 +41,10 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 
 ## Certificados e Cursos
 
+- CTFL
+- CTFL-AT
+- CTAL-TAE
+
 ## Idiomas
 
 - Inglês
