@@ -81,7 +81,6 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 - [GitHubPessoal](https://github.com/gpd38)
 - [GitHubEmpresa](https://github.com/gpdbase2)
 - [Lattes](http://lattes.cnpq.br/9974420314016273)
-- [Medium](#)
 - [Twitter](https://twitter.com/gpddias)
 - [Facebook](https://www.facebook.com/gpd38/)
 - [Instagram](https://www.instagram.com/gpd38/)
