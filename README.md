@@ -71,6 +71,20 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 - Certified Tester, Foundation Level - Agile Tester (CTFL-AT)
 - Certified Tester Advanced Level, Test Automation Engineer (CTAL-TAE)
 
+## Cursos
+
+- Alura
+
+- Framework System
+
+- Igti
+
+- Microcamp
+
+- Senac
+
+- Udemy
+
 ## Idiomas
 
 - Inglês
