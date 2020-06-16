@@ -115,19 +115,19 @@ Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da T
 ## Cursos
 
 Alura
-    - Scrum Parte 1: Gerencie o seu Projeto de Forma Ágil
-    - Scrum Parte 2: O Manifesto Ágil, Liderança e Organização em Scrum
-    - Scrum Parte 3: Iniciando Projetos com Agile
-    - Scrum Parte 4: Planejando Projetos com Agile
-    - Scrum Parte 5: Executando Projetos com Agile
-    - Scrum Parte 6: Revisão, Retrospectiva e Encerramento de Projetos com Agile
-    - Testes: TDD com Java
+- Scrum Parte 1: Gerencie o seu Projeto de Forma Ágil
+- Scrum Parte 2: O Manifesto Ágil, Liderança e Organização em Scrum
+- Scrum Parte 3: Iniciando Projetos com Agile
+- Scrum Parte 4: Planejando Projetos com Agile
+- Scrum Parte 5: Executando Projetos com Agile
+- Scrum Parte 6: Revisão, Retrospectiva e Encerramento de Projetos com Agile
+- Testes: TDD com Java
     
 Udemy
-    - JUnit para Testadores
-    - Aprenda BDD com Cucumber em JAVA
-    - Automação de Testes com Selenium WebDriver em Java
-    - C# Curso Completo: Do Básico ao Avançado!
+- JUnit para Testadores
+- Aprenda BDD com Cucumber em JAVA
+- Automação de Testes com Selenium WebDriver em Java
+- C# Curso Completo: Do Básico ao Avançado!
 
 ## Idiomas
 
