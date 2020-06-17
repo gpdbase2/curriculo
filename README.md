@@ -100,7 +100,7 @@ Conheço e já trabalhei com várias tecnologias de frontend e backend na área 
 
 ## Formação Acadêmica
 
-![Puc Minas Logo](https://media-exp1.licdn.com/dms/image/C4D0BAQEn1scYwvaKig/company-logo_200_200/0?e=1596067200&v=beta&t=m_76xR6uGsaMtfLD-kmzxc6VJCUVCP6dnhSHgqtXM7g)<br>
+![Puc Minas Logo](https://github.com/gpd38/curriculoPessoalMarkdown/blob/master/img/logo-pucminas.png)<br>
 Pontifícia Universidade Católica de Minas Gerais / PUC Minas <br>
 Bachelor of Science (BS), Computer ScienceÁrea de estudoCiências Exatas e da Terra <br>
 2004 a 2012
@@ -126,8 +126,25 @@ Alura
 Udemy
 - JUnit para Testadores
 - Aprenda BDD com Cucumber em JAVA
-- Automação de Testes com Selenium WebDriver em Java
 - C# Curso Completo: Do Básico ao Avançado!
+- Git e Github para iniciantes
+- Curso Completo de Automação de Testes Para Iniciantes
+- Processo de Automação de Testes Funcionais Com Selenium
+- Automação de Testes com Selenium WebDriver em Java
+
+Igti
+- Fundamentos em Desenvolvimento Front End
+
+Framework System
+- Introdução Java SE e SE Avançado
+- Desenvolvimento de Aplicações JEE6
+- Desenvolvimento de Aplicações Java Web e JSF
+
+Microcamp
+- Web Designer Develop
+
+Senac
+- Curso de Hardware
 
 ## Idiomas
 
