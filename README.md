@@ -126,22 +126,22 @@ Alura
 Udemy
 - JUnit para Testadores
 - Aprenda BDD com Cucumber em JAVA
-- Automação de Testes com Selenium WebDriver em Java
 - C# Curso Completo: Do Básico ao Avançado!
+- Git e Github para iniciantes
+- Curso Completo de Automação de Testes Para Iniciantes
+- Processo de Automação de Testes Funcionais Com Selenium
+- Automação de Testes com Selenium WebDriver em Java
 
-## Cursos
+Igti
+- Fundamentos em Desenvolvimento Front End
 
-- Alura
+Framework System
+- Introdução Java SE e SE Avançado
+- Desenvolvimento de Aplicações JEE6
+- Desenvolvimento de Aplicações Java Web e JSF
 
-- Framework System
-
-- Igti
-
-- Microcamp
-
-- Senac
-
-- Udemy
+Senac
+- Curso de Hardware
 
 ## Idiomas
 
